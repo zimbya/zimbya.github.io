@@ -1,0 +1,17 @@
+Full Name:Deepak Rajesh Yadav
+Professional Title:Senior Network & Data Center Engineer
+Current Role:High Touch Engineer at cisco
+Location:Mumbai
+Email:deepak.y.2812@gmail.com
+LinkedIn:www.linkedin.com/in/deepak-yadav-98534957
+GitHub:https://github.com/zimbya/zimbya.github.io
+
+About Me:
+I have total 12+ years of experienc in Network,security and data center,since last 7 years i focused worked on DC SDN solutions,UCS etc.
+i have worked for may ITES and BFSI clients indian origin and global as well as service based companies Cognizanat,Accenture,Cisco,Jio,Syndrome etc..
+i am enthusiasitic to learn and adpat new technologies in DC curently lokking for csico AI pod,AI enabled DC and NVIDIA GPu's,TPU's etc.
+past i worked on NOC,DC,Feild customer enviornment to support DC networks and services.
+Skills are - EVPN, BGP, OSPF, VXLAN protocol
+HPC & HCI enviornemnt , SDN(Cisco solutins),SDWAN,AWS,GCP,Azure,Github,VScode,pycharm,ACI Automation and scripting,LLM,RAG,GPUs etc..
+Cisco UCS, Nexus, SAN, VMware and Data Center
+technologies.
